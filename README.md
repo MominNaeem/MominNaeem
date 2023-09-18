@@ -2,7 +2,7 @@
 
 - 🌍  I'm based in Markham, Ontario
 - ✉️  You can contact me at m28naeem@uwaterloo.ca
-- 🧠  I'm developing my Web Development skills
+- 🧠  I'm elevating my Web Development skills to the next level
 - 🤝  I'm open to collaborating on any projects and applications
 - ⚡  Fun fact: I love working out 💪
 
