@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Hey+there!+;My+name+is+Momin+Naeem)](https://git.io/typing-svg)
 
-🌍  I'm based in Markham, Ontario
-✉️  You can contact me at m28naeem@uwaterloo.ca
-🧠  I'm developing my Web Development skills
-🤝  I'm open to collaborating on any projects and applications
-⚡  Fun fact: I love working out 💪
+- 🌍  I'm based in Markham, Ontario
+- ✉️  You can contact me at m28naeem@uwaterloo.ca
+- 🧠  I'm developing my Web Development skills
+- 🤝  I'm open to collaborating on any projects and applications
+- ⚡  Fun fact: I love working out 💪
 
 <!--
 **MominNaeem/MominNaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
